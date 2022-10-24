@@ -1,0 +1,13 @@
+# Exercise 3: Variable
+
+# \t Function
+name = "Errol\tCaranza"
+print(name)
+
+# \n Function
+name = "Errol\nCaranza"
+print(name)
+
+# Strip Function
+name = "Errol Renselle Caranza"
+print(name.strip("Caranza"))
