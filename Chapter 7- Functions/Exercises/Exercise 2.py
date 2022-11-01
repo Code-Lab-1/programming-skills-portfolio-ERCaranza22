@@ -2,6 +2,6 @@
 
 def favorite_book(title):
     """Display a message about someone's favorite book."""
-    print(f"{title} is one of my favorite manga.")
+    print(f"{title} is one of my favorite book.")
 
-favorite_book('The Abstract Wild')
+favorite_book('Literature')
