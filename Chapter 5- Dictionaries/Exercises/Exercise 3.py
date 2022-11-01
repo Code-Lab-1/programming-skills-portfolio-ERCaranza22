@@ -10,3 +10,4 @@ glossary = {'string': 'A series of characters.',
 
 for word, definition in glossary.items():
     print(f"\n{word}: {definition}")
+    
